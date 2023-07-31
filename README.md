@@ -1,3 +1,4 @@
+bump
 # rusefi-hardware
 
 New repo just for rusEFI Hardware
